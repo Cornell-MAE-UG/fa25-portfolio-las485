@@ -8,12 +8,12 @@ permalink: /cv/
 Download my CV({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** las485@cornell.edu(mailto:las485@cornell.edu) | | | **Phone:** +1 (862)400-8038
+**Email:** las485@cornell.edu(mailto:las485@cornell.edu) | | | **Phone:** +862 400 8038
 
 ---
 
 #### Objective
-Aspiring mechanical engineer with hands-on experience in CAD modeling, infrastructure design, gas-distribution training systems, and technical project management. Passionate about engineering design, emerging technologies, and developing practical, user-centered engineering solutions.
+Mechanical engineer with hands-on experience in CAD modeling, infrastructure design, gas-distribution training systems, and technical project management. Passionate about engineering design, emerging technologies, and developing practical, user-centered engineering solutions.
 
 ---
 
