@@ -8,7 +8,7 @@ permalink: /cv/
 Download my CV({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** las485@cornell.edu(mailto:las485@cornell.edu) | | | **Phone:** +862 400 8038
+**Email:** [las485@cornell.edu](mailto:las485@cornell.edu) | | | **Phone:** +862 400 8038
 
 ---
 
@@ -21,6 +21,7 @@ Mechanical engineer with hands-on experience in CAD modeling, infrastructure des
 - **Cornell University**  
   *Bachelor of Science in Mechanical Engineering, Minor in Business*  
   Graduation: December, 2025
+
 ---
 
 #### Skills
