@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Lissette Silva - Portfolio
 permalink: /projects/
 ---
 
